@@ -1,0 +1,8 @@
+initializing a repository creates a blank repository ready to get content to track
+
+the staging area is used for to keep track of the files that the user wants to include into the repository.
+
+the staging area keeps a version prior to adding it into the repository.
+
+the working directory contains all the files. both files in the staging directory and not 
+
