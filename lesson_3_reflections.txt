@@ -1,0 +1,1 @@
+Having a remote repository is usefull when working from several computers, having multiple people participate in project. And also as a backup
